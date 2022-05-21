@@ -1,2 +1,2 @@
-# fuse_linux
+# FUSEGIT
 VFS DSO Linux
